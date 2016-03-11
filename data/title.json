@@ -1,0 +1,27 @@
+{
+    "home":{
+        "pageURL":"index.php",
+        "headTitle":"Sue's PHP Site",
+        "bodyTitle":"Sue's PHP Site"
+    },
+    "about":{
+        "pageURL":"about.php",
+        "headTitle":"About | Sue's PHP Site",
+        "bodyTitle":"About"
+    },
+    "archive":{
+        "pageURL":"archive.php",
+        "headTitle":"Archive | Sue's PHP Site",
+        "bodyTitle":"Archive"
+    },
+    "blog":{
+        "pageURL":"post.php",
+        "headTitle":"Blog | Sue's PHP Site",
+        "bodyTitle":"Blog"
+    },
+    "generateEntries":{
+        "pageURL":"generate-entries.php",
+        "headTitle":"Generate Entries | Sue's PHP Site",
+        "bodyTitle":"Generate Entries"
+    }
+}
